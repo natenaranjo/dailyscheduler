@@ -1,6 +1,6 @@
 # Changelog
-
-## v1.0.0
+<!-- Sample
+## v0.0.1
 
 ### Added or Changed
 - Added this changelog :)
@@ -11,5 +11,12 @@
 - Added checkboxes for major features on roadmap
 
 ### Removed
+-->
 
-- Some packages/libraries from acknowledgements I no longer use
+## v0.0.1
+
+### Added or Changed
+- Created the repository
+- Added Readme and changelog
+- Updated the Readme with basic information.
+- Added empty project assets folders. 
