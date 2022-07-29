@@ -20,3 +20,11 @@
 - Added Readme and changelog
 - Updated the Readme with basic information.
 - Added empty project assets folders. 
+
+## v0.0.2
+
+### Added or Changed
+- Build the html page layout for the schedule app.
+- Used javascript to layout the hour rows with a function.
+- Stylized the html page with bootstrap framework on the containers, rows, and columns.
+- Added some custom css for areas.
